@@ -32,7 +32,7 @@ br {
 
 button {
     background-color: #181319;
-    border: 0.5vh solid #181319;
+    border: 0.5vh solid #00B7FC;
     border-start-start-radius: 10vh;
     border-start-end-radius: 2vh;
     border-end-end-radius: 10vh;
@@ -99,7 +99,7 @@ button:hover {
 
 #prompt p {
     background-color: #181319;
-    border: 0.5vh solid #181319;
+    border: 0.5vh solid #00B7FC;
     border-start-start-radius: 10vh;
     border-start-end-radius: 2vh;
     border-end-end-radius: 10vh;
